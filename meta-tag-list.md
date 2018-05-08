@@ -2,7 +2,7 @@ Copied from http://code.lancepollard.com/complete-list-of-html-meta-tags/, https
 
 Basic HTML Meta Tags
 
-<meta name="keywords" content="your, tags"/>
+# <meta name="keywords" content="your, tags"/>
 <meta name="description" content="150 words"/>
 <meta name="subject" content="your website's subject">
 <meta name="copyright"content="company name">
